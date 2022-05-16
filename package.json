@@ -1,0 +1,27 @@
+{
+  "name": "allureexample",
+  "version": "1.0.0",
+  "description": "allure example project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "first_step" : "npx cypress run --headless --browser chrome --env allure=true",
+    "second_step" : "allure generate allure-results --clean -o allure-report",
+    "third_step": "allure open allure-report"
+  },
+  "author": "Erdal Kurucay",
+  "license": "ISC",
+  "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.26.5",
+    "allure-commandline": "^2.17.2",
+    "cypress": "^9.6.1",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-xpath": "^1.6.2",
+    "del": "^6.0.0",
+    "mocha-allure-reporter": "^1.4.0"
+  },
+  "dependencies": {
+    "cypress-downloadfile": "^1.2.2",
+    "mocha": "^10.0.0"
+  }
+}

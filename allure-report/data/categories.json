@@ -1,0 +1,30 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Timed out retrying after 4000ms: expected 'EVOLUCARE Technologies - Recherche Google' to equal 'My Title'",
+      "children" : [ {
+        "name" : "Test 2",
+        "uid" : "9c1dc38ae1ec6ab4",
+        "parentUid" : "1fff55642a84b99ab0035a1c276894e8",
+        "status" : "failed",
+        "time" : {
+          "start" : 1652627930394,
+          "stop" : 1652627939369,
+          "duration" : 8975
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 6,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1fff55642a84b99ab0035a1c276894e8"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

@@ -1,0 +1,140 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Example Test Suite 2",
+    "children" : [ {
+      "name" : "Test E",
+      "uid" : "7bf456d864132a98",
+      "parentUid" : "260cb26e26c5295cbe94464a4313bc26",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652627726245,
+        "stop" : 1652627731580,
+        "duration" : 5335
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Test a",
+      "uid" : "222cdb8ae0175c39",
+      "parentUid" : "260cb26e26c5295cbe94464a4313bc26",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652627961759,
+        "stop" : 1652627965517,
+        "duration" : 3758
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 4,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "260cb26e26c5295cbe94464a4313bc26"
+  }, {
+    "name" : "Example Test Suite 1_1",
+    "children" : [ {
+      "name" : "Test 1",
+      "uid" : "7accf4e5c9dbffa3",
+      "parentUid" : "382a7f8c3d639e8275c9a73a6b85aeaa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652627923906,
+        "stop" : 1652627930349,
+        "duration" : 6443
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 6,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Test 2",
+      "uid" : "9c1dc38ae1ec6ab4",
+      "parentUid" : "382a7f8c3d639e8275c9a73a6b85aeaa",
+      "status" : "failed",
+      "time" : {
+        "start" : 1652627930394,
+        "stop" : 1652627939369,
+        "duration" : 8975
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 6,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "382a7f8c3d639e8275c9a73a6b85aeaa"
+  }, {
+    "name" : "Example Test Suite 1_2",
+    "children" : [ {
+      "name" : "Test x",
+      "uid" : "82a69942f75a7d0",
+      "parentUid" : "5614826fcc6114da511c1f9086caf260",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652627947586,
+        "stop" : 1652627951293,
+        "duration" : 3707
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 4,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Test y",
+      "uid" : "b40da64237fd9a12",
+      "parentUid" : "5614826fcc6114da511c1f9086caf260",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652627951314,
+        "stop" : 1652627955682,
+        "duration" : 4368
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 4,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "5614826fcc6114da511c1f9086caf260"
+  }, {
+    "name" : "Example Test Suite 3",
+    "children" : [ {
+      "name" : "Test E",
+      "uid" : "ec63505a16730425",
+      "parentUid" : "fab7f8d9901490b0e0869604a4c01c34",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652627971122,
+        "stop" : 1652627975235,
+        "duration" : 4113
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "fab7f8d9901490b0e0869604a4c01c34"
+  } ]
+}

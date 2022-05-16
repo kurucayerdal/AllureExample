@@ -1,0 +1,136 @@
+{
+  "ec93839a98d70df66d0433b168dd01d2" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9c1dc38ae1ec6ab4",
+      "status" : "failed",
+      "statusDetails" : "Timed out retrying after 4000ms: expected 'EVOLUCARE Technologies - Recherche Google' to equal 'My Title'",
+      "time" : {
+        "start" : 1652627930394,
+        "stop" : 1652627939369,
+        "duration" : 8975
+      }
+    } ]
+  },
+  "f81c67ca30d2a25edb764ad96a0d5526" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7bf456d864132a98",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652627726245,
+        "stop" : 1652627731580,
+        "duration" : 5335
+      }
+    } ]
+  },
+  "c9817d96489ffcf19bbf21a581c4e4b4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ec63505a16730425",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652627971122,
+        "stop" : 1652627975235,
+        "duration" : 4113
+      }
+    } ]
+  },
+  "8a3a78ede287875751b47eca789d0fce" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "222cdb8ae0175c39",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652627961759,
+        "stop" : 1652627965517,
+        "duration" : 3758
+      }
+    } ]
+  },
+  "e5310d8277a870d7a1b73417b5136132" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7accf4e5c9dbffa3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652627923906,
+        "stop" : 1652627930349,
+        "duration" : 6443
+      }
+    } ]
+  },
+  "7a07f7c3ac1248aab07c4828f8fdcc59" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "82a69942f75a7d0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652627947586,
+        "stop" : 1652627951293,
+        "duration" : 3707
+      }
+    } ]
+  },
+  "15e1720f974969ef81fa366572f3bed3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b40da64237fd9a12",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652627951314,
+        "stop" : 1652627955682,
+        "duration" : 4368
+      }
+    } ]
+  }
+}

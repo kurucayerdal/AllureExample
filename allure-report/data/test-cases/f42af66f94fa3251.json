@@ -1,0 +1,443 @@
+{
+  "uid" : "f42af66f94fa3251",
+  "name" : "Test 1",
+  "fullName" : "Test 1",
+  "historyId" : "e5310d8277a870d7a1b73417b5136132",
+  "time" : {
+    "start" : 1652627053063,
+    "stop" : 1652627060470,
+    "duration" : 7407
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "visit https://www.google.com",
+      "time" : {
+        "start" : 1652627053089,
+        "stop" : 1652627054500,
+        "duration" : 1411
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "contains J'accepte",
+      "time" : {
+        "start" : 1652627054501,
+        "stop" : 1652627054534,
+        "duration" : 33
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "click",
+      "time" : {
+        "start" : 1652627054534,
+        "stop" : 1652627054676,
+        "duration" : 142
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "GET https://consent.google.com/s?continue=https://www.google.com/&gl=FR&m=0&pc=shp&uxe=none&v=shp.gws-20220505-0-RC1.fr+FX+251&ca=e&x=5&t=ADw3F8iCx62mX986-7jfH6BWwyTYMLKJUQ:1652627053134",
+      "time" : {
+        "start" : 1652627054676,
+        "stop" : 1652627054676,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "get [name=\"q\"]",
+      "time" : {
+        "start" : 1652627054676,
+        "stop" : 1652627054685,
+        "duration" : 9
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "type EVOLUCARE Technologies {enter}",
+      "time" : {
+        "start" : 1652627054685,
+        "stop" : 1652627055702,
+        "duration" : 1017
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "GET https://consent.google.com/s?continue=https://www.google.com/&gl=FR&m=0&pc=shp&uxe=none&v=shp.gws-20220505-0-RC1.fr%2BFX%2B251&ca=e&x=5&t=ADw3F8iCx62mX986-7jfH6BWwyTYMLKJUQ:1652627053134",
+      "time" : {
+        "start" : 1652627055698,
+        "stop" : 1652627055698,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "GET /complete/search?q&cp=0&client=gws-wiz&xssi=t&hl=fr&authuser=0&psi=bRaBYo3dBorBlwSppp2wDg.1652627055403&nolsbt=1&dpr=1",
+      "time" : {
+        "start" : 1652627055699,
+        "stop" : 1652627055699,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "GET https://www.google.com/complete/search?q=EVOLUCARE Technologies&cp=22&client=gws-wiz&xssi=t&hl=fr&authuser=0&psi=bRaBYo3dBorBlwSppp2wDg.1652627055403&dpr=1",
+      "time" : {
+        "start" : 1652627055699,
+        "stop" : 1652627055699,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "GET https://consent.google.fr/s?continue=https://www.google.com/&v=shp.gws-20220505-0-RC1.fr%2BFX%2B251&gl=FR&x=5&pc=shp&uxe=none&t=ADw3F8iCx62mX986-7jfH6BWwyTYMLKJUQ:1652627053134&rl=2&ca=e",
+      "time" : {
+        "start" : 1652627055701,
+        "stop" : 1652627055701,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "GET https://www.google.com/complete/search?q=EVOLUCARE Technologies &cp=23&client=gws-wiz&xssi=t&hl=fr&authuser=0&psi=bRaBYo3dBorBlwSppp2wDg.1652627055403&dpr=1",
+      "time" : {
+        "start" : 1652627055701,
+        "stop" : 1652627055701,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "GET 200 /complete/search?q=EVOLUCARE%20Technologies&cp=22&client=gws-wiz&xssi=t&hl=fr&authuser=0&psi=bRaBYo3dBorBlwSppp2wDg.1652627055403&dpr=1",
+      "time" : {
+        "start" : 1652627055702,
+        "stop" : 1652627055702,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "page load --waiting for new page to load--",
+      "time" : {
+        "start" : 1652627055702,
+        "stop" : 1652627055702,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "GET 200 /complete/search?q=EVOLUCARE%20Technologies%20&cp=23&client=gws-wiz&xssi=t&hl=fr&authuser=0&psi=bRaBYo3dBorBlwSppp2wDg.1652627055403&dpr=1",
+      "time" : {
+        "start" : 1652627055702,
+        "stop" : 1652627055702,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "GET 204 /client_204?cs=1",
+      "time" : {
+        "start" : 1652627055702,
+        "stop" : 1652627060469,
+        "duration" : 4767
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "POST https://play.google.com/log?format=json&hasfast=true&authuser=0",
+      "time" : {
+        "start" : 1652627060469,
+        "stop" : 1652627060469,
+        "duration" : 0
+      },
+      "status" : "failed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "GET 200 /xjs/_/js/md=1/k=xjs.s.fr.VlqGZS40RSA.O/am=AKAKAG4AAADALAgAAAAAAAAAAAQCTxkBAADCSJAEAABACIEAAAAQAIAAYAgBAAAA-Mg3AAF_AwADTbgAAAAAAAAAAAFcgmDgBomCABAAAAAAALKaumIAEAIB/rs=ACT90oEfzJ99oQcO9uiKNPsHcykIaPaWbQ",
+      "time" : {
+        "start" : 1652627060469,
+        "stop" : 1652627060469,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "GET https://consent.youtube.com/s?continue=https://www.google.com/&v=shp.gws-20220505-0-RC1.fr%2BFX%2B251&gl=FR&x=5&pc=shp&uxe=none&t=ADw3F8iCx62mX986-7jfH6BWwyTYMLKJUQ:1652627053134&rl=1&ca=e",
+      "time" : {
+        "start" : 1652627060469,
+        "stop" : 1652627060469,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "new url https://www.google.com/search?q=EVOLUCARE+Technologies+&source=hp&ei=bRaBYo3dBorBlwSppp2wDg&iflsig=AJiK0e8AAAAAYoEkfdDpdSesZdE3Z0mdYR6_Dg70mHXH&ved=0ahUKEwjNx8nD4-H3AhWK4IUKHSlTB-YQ4dUDCAc&uact=5&oq=EVOLUCARE+Technologies+&gs_lcp=Cgdnd3Mtd2l6EANQMlgyYGdoAHAAeACAAQCIAQCSAQCYAQCgAQE&sclient=gws-wiz",
+      "time" : {
+        "start" : 1652627060469,
+        "stop" : 1652627060469,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "GET https://www.google.com/complete/search?q=EVOLUCARE Technologies&cp=0&client=desktop-gws-wiz-on-focus-serp&xssi=t&hl=fr&authuser=0&pq=EVOLUCARE Technologies&psi=bxaBYuGZJ4nIaMSFkvAP.1652627057221&ofp=GPO_487zipXFdBj55eeY0o7qrusBGJ-RrMjSsZvlcBjTk5iuurz_tB4Y657dnI_ugJ03EAEy-gEKIAoeZXZvbHVjYXJlIHRlY2hub2xvZ2llcyAtIGJvdmVzCiAKHmV2b2x1Y2FyZSB0ZWNobm9sb2dpZXMgbGUgcGVjcQoTChFldm9sdWNhcmUgaW1hZ2luZwoeChxldm9sdWNhcmUgY2hpZmZyZSBkJ2FmZmFpcmVzCh8KHWV2b2x1Y2FyZSB0ZWNobm9sb2dpZXMgbmFudGVzChsKGWV2b2x1Y2FyZSBsZXbDqWUgZGUgZm9uZHMKKwopZXZvbHVjYXJlIHRlY2hub2xvZ2llcyB2aWxsZXJzLWJyZXRvbm5ldXgKEgoQZXZvbHVjYXJlIHNpw6hnZRBH&dpr=1",
+      "time" : {
+        "start" : 1652627060469,
+        "stop" : 1652627060469,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "GET https://www.google.com/complete/search?q&cp=0&client=gws-wiz&xssi=t&hl=fr&authuser=0&pq=EVOLUCARE Technologies&psi=bxaBYuGZJ4nIaMSFkvAP.1652627057221&ofp=GPO_487zipXFdBj55eeY0o7qrusBGJ-RrMjSsZvlcBjTk5iuurz_tB4Y657dnI_ugJ03&nolsbt=1&dpr=1",
+      "time" : {
+        "start" : 1652627060469,
+        "stop" : 1652627060469,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "GET 200 /xjs/_/js/md=1/k=xjs.s.fr.VlqGZS40RSA.O/am=AqAKAG4AAADALAgAAAAAAAAAAAQS_x8BAADCSJAEAABACIEAAAAQAIIAYggBAAAA-Mg3ADl_AwADTbgAAAAAAAAAAAFcgmDgAomCABAAAAAAALKaunqZEwIB/rs=ACT90oHpsvr92bJlAIXsJLQ9r5BRP5Iw3g",
+      "time" : {
+        "start" : 1652627060469,
+        "stop" : 1652627060469,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "GET 200 /async/bgasy?ei=bxaBYuGZJ4nIaMSFkvAP&yv=3&async=_fmt:jspb",
+      "time" : {
+        "start" : 1652627060469,
+        "stop" : 1652627060469,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "GET 204 /client_204?cs=1",
+      "time" : {
+        "start" : 1652627060469,
+        "stop" : 1652627060469,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "POST https://play.google.com/log?format=json&hasfast=true&authuser=0",
+      "time" : {
+        "start" : 1652627060469,
+        "stop" : 1652627060469,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "screenshot",
+      "time" : {
+        "start" : 1652627060469,
+        "stop" : 1652627060469,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "141d0e6472af8f12",
+      "name" : "testSuite_1/testCase_1.spec.js:2022-05-15T15:04:19.760Z",
+      "source" : "141d0e6472af8f12.png",
+      "type" : "image/png",
+      "size" : 543311
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 26,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Example Test Suite 1_1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f42af66f94fa3251.json",
+  "parameterValues" : [ ]
+}

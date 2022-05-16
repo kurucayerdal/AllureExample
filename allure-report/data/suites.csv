@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun May 15 17:19:11 CEST 2022","Sun May 15 17:19:15 CEST 2022","4368","","Example Test Suite 1_2","","","","Test y",""
+"passed","Sun May 15 17:19:31 CEST 2022","Sun May 15 17:19:35 CEST 2022","4113","","Example Test Suite 3","","","","Test E",""
+"passed","Sun May 15 17:19:07 CEST 2022","Sun May 15 17:19:11 CEST 2022","3707","","Example Test Suite 1_2","","","","Test x",""
+"failed","Sun May 15 17:18:50 CEST 2022","Sun May 15 17:18:59 CEST 2022","8975","","Example Test Suite 1_1","","","","Test 2",""
+"passed","Sun May 15 17:18:43 CEST 2022","Sun May 15 17:18:50 CEST 2022","6443","","Example Test Suite 1_1","","","","Test 1",""
+"passed","Sun May 15 17:19:21 CEST 2022","Sun May 15 17:19:25 CEST 2022","3758","","Example Test Suite 2","","","","Test a",""
+"passed","Sun May 15 17:15:26 CEST 2022","Sun May 15 17:15:31 CEST 2022","5335","","Example Test Suite 2","","","","Test E",""
